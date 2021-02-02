@@ -1,1 +1,1 @@
-# playlist_clustering
+This Streamlit application allows you to understand your music listening by comparing the audio features of your Spotify playlists. There are many data visualizations that compare your audio features across playlists. This app also using k-means clustering to create clusters of your playlists based on similar audio features. 
