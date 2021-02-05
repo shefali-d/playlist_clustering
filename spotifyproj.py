@@ -19,7 +19,7 @@ from scipy.spatial.distance import cdist
 import math
 
 cid = "4fd6aab33a6d4691a1e0238c8c0159ac" 
-secret = "" 
+secret = "822b932fcede49c799e3eaf79ac2730c" 
 
 
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=cid,
